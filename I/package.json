@@ -1,17 +1,40 @@
 {
-  "name": "witherslayer67's extension pack",
+  "name": "witherslayer67s-extension-pack",
   "displayName": "WITHER PACK",
   "description": "all of the good extension packs",
   "version": "0.0.1",
   "publisher": "witherslayer67",
-  "homepage": "https://github.com/warpnet/saltstack-extension-pack",
+  "homepage": "https://github.com/witherslayer67/witherslayer67s-vscode-pack",
+  "repository": {
+		"type": "git",
+		"url": "https://github.com/witherslayer67/witherslayer67s-vscode-pack.git"
+	},
   "engines": {
     "vscode": "^1.84.0"
   },
   "categories": [
     "Extension Packs"
   ],
+  "keywords": [
+		"frc",
+		"witherslayer67",
+		"lynk",
+    "9496"
+	],
   "extensionPack": [ 
-    "publisher.extensionName"
+    "vscjava.vscode-java-debug",
+    "sabrsorensen.synthwave-blues",
+    "redhat.java",
+    "vscjava.vscode-java-test",
+    "vscjava.vscode-maven",
+    "vscjava.vscode-java-dependency",
+    "visualstudioexptteam.vscodeintellicode",
+    "visualstudioexptteam.intellicode-api-usage-examples",
+    "bierner.markdown-preview-github-styles",
+    "eamodio.gitlens",
+    "streetsidesoftware.code-spell-checker",
+    "aaron-bond.better-comments",
+    "wpilibsuite.vscode-wpilib",
+    "mwpb.java-prettier-formatter"
   ]
 }
