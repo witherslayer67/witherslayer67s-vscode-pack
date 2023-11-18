@@ -1,0 +1,17 @@
+{
+  "name": "witherslayer67's extension pack",
+  "displayName": "WITHER PACK",
+  "description": "all of the good extension packs",
+  "version": "0.0.1",
+  "publisher": "witherslayer67",
+  "homepage": "https://github.com/warpnet/saltstack-extension-pack",
+  "engines": {
+    "vscode": "^1.84.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [ 
+    "publisher.extensionName"
+  ]
+}
